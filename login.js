@@ -1,5 +1,5 @@
-﻿const login = () => {
+﻿const handleLogin = () => {
   console.log("Login");
 };
-export default login;
+export default handleLogin;
 
